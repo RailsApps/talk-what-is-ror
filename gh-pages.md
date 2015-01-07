@@ -24,6 +24,7 @@ output: index.html
 * best book for beginners
 * available on [Amazon](http://www.amazon.com/dp/B00QK2T1SY)
 * part of the [Capstone Rails Tutorial Series](https://tutorials.railsapps.org/)
+* download at [learn-rails.com/students](http://learn-rails.com/students)
 
 --
 
@@ -53,7 +54,7 @@ output: index.html
 
 ### Web application development
 
-* static websites (HTML)
+* [static websites](http://learn-rails.com/capetown) (HTML)
 * web applications (databases and programming)
 * mobile apps (iOS and Objective C, Android and Java)
 * desktop apps
@@ -189,27 +190,27 @@ output: index.html
 
 --
 
-### Title
+### Why Ruby on Rails for startups?
 
-* point
-* point
-* point
-
---
-
-### Title
-
-* point
-* point
-* point
+* conventions mean Rails developers get started quickly
+* gems mean much code is already written
+* testing enforces code quality
 
 --
 
-### Title
+### Making money with Ruby on Rails
 
-* point
-* point
-* point
+* learn to code, build your MVP, launch a business
+* learn to code, change your career, earn more money
+* learn to code, start freelancing or join a consulting firm
+
+--
+
+### Next steps
+
+* weekend accelerator training (1095 R)
+* download the book ‘Learn Ruby on Rails’
+* build applications!
 
 --
 
