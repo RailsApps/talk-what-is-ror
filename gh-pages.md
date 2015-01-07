@@ -1,4 +1,4 @@
-title: Rails Composer
+title: What is Ruby on Rails
 author:
   name: "Daniel Kehoe"
   twitter: "rails_apps"
@@ -7,9 +7,7 @@ output: index.html
 
 --
 
-# Rails Composer
-## and the RailsApps open source project
-
+# What is Ruby on Rails
 --
 
 ## [railsapps.github.io/rails-composer-talk](http://railsapps.github.io/rails-composer-talk/)
